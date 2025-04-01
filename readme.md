@@ -35,7 +35,7 @@ A list of selected LeetCode problems with difficulty, topic, estimated time, sta
 | 27 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | 🟢 Easy | 15 mins | Stack | ✅ |
 | 28 | [Counting Bits](https://leetcode.com/problems/counting-bits) | 🟢 Easy | 15 mins | Binary | ⏳ |
 | 29 | [Same Tree](https://leetcode.com/problems/same-tree) | 🟢 Easy | 20 mins | Binary Tree | ✅ |
-| 30 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | 🟢 Easy | 15 mins | Binary | ⏳ |
+| 30 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | 🟢 Easy | 15 mins | Binary | ✅ |
 | 31 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | 🟢 Easy | 20 mins | String | ⏳ |
 | 32 | [Single Number](https://leetcode.com/problems/single-number) | 🟢 Easy | 15 mins | Binary | ⏳ |
 | 33 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | 🟢 Easy | 20 mins | Linked List | ⏳ |
