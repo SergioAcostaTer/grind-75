@@ -60,7 +60,7 @@ A list of selected LeetCode problems with difficulty, topic, estimated time, sta
 | 52 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | 🟡 Medium | 35 mins | Trie | ⏳ |
 | 53 | [Coin Change](https://leetcode.com/problems/coin-change) | 🟡 Medium | 25 mins | Dynamic Programming | ⏳ |
 | 54 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | 🟡 Medium | 30 mins | Array | ⏳ |
-| 55 | [Min Stack](https://leetcode.com/problems/min-stack) | 🟡 Medium | 20 mins | Stack | ⏳ |
+| 55 | [Min Stack](https://leetcode.com/problems/min-stack) | 🟡 Medium | 20 mins | Stack | ✅ |
 | 56 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | 🟡 Medium | 20 mins | Binary Search Tree | ⏳ |
 | 57 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | 🟡 Medium | 25 mins | Graph | ⏳ |
 | 58 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | 🟡 Medium | 30 mins | Graph | ⏳ |
